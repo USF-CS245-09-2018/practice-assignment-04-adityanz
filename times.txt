@@ -1,0 +1,43 @@
+/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=60757:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/aditya/Dropbox/CS245/GitHub Practice/practice-assignment-04-adityanz/out/production/practice-assignment-04-adityanz" Practice04Test
+insertionsort	253 ms.		50000	[OK]
+bubblesort	3988 ms.	50000	[OK]
+selectionsort	572 ms.		50000	[OK]
+----------------------------------------------------
+insertionsort	1201 ms.	100000	[OK]
+bubblesort	15789 ms.	100000	[OK]
+selectionsort	2231 ms.	100000	[OK]
+----------------------------------------------------
+insertionsort	1893 ms.	150000	[OK]
+bubblesort	28343 ms.	150000	[OK]
+selectionsort	5070 ms.	150000	[OK]
+----------------------------------------------------
+insertionsort	4867 ms.	200000	[OK]
+bubblesort	49915 ms.	200000	[OK]
+selectionsort	8965 ms.	200000	[OK]
+----------------------------------------------------
+insertionsort	7653 ms.	250000	[OK]
+bubblesort	77782 ms.	250000	[OK]
+selectionsort	13635 ms.	250000	[OK]
+----------------------------------------------------
+insertionsort	10689 ms.	300000	[OK]
+bubblesort	113740 ms.	300000	[OK]
+selectionsort	20332 ms.	300000	[OK]
+----------------------------------------------------
+insertionsort	14849 ms.	350000	[OK]
+bubblesort	152143 ms.	350000	[OK]
+selectionsort	27363 ms.	350000	[OK]
+----------------------------------------------------
+insertionsort	19540 ms.	400000	[OK]
+bubblesort	199142 ms.	400000	[OK]
+selectionsort	35498 ms.	400000	[OK]
+----------------------------------------------------
+insertionsort	25008 ms.	450000	[OK]
+bubblesort	252402 ms.	450000	[OK]
+selectionsort	45677 ms.	450000	[OK]
+----------------------------------------------------
+insertionsort	31395 ms.	500000	[OK]
+bubblesort	313922 ms.	500000	[OK]
+selectionsort	55983 ms.	500000	[OK]
+----------------------------------------------------
+
+Process finished with exit code 0
